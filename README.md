@@ -1,4 +1,4 @@
-# musicschool - Projeto Escola de Música
+# 🏫 musicschool 🎶 - Projeto Escola de Música
 Projeto de trabalho final do módulo 15. Disciplina de Programação.
 
 ## 1 - Descrição do Projeto
