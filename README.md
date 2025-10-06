@@ -6,3 +6,5 @@ Este projeto vem com intenção de avaliar as minhas habilidades de manipulaçã
 
 ## 2 - Fácilidade de navegar no repositório
 Se quiser verificar o código, é só entrar no diretório "SQL", quer ver o modelo DER? No diretório "DER" há um PDF e uma imagem editável (https://draw.io ou https://diagrams.net). Se quiser ainda verificar quais seriam os resultados na consola, podes verificar o diretório "Consola".
+
+### Trabalho feito por Dinis Vieira ©2025
